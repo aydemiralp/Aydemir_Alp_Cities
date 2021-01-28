@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">18sp</dimen>
+    <dimen name="marginleft10">10dp</dimen>
+    <dimen name="margin30">30dp</dimen>
+    <dimen name="padding20">20dp</dimen>
+</resources>

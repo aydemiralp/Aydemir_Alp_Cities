@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aydemir_Alp_Cities</string>
+    <string name="add">Add</string>
+    <string name="city_name">City Name:</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="city_population">City Population:</string>
+    <string name="enter_population">Enter population</string>
+    <string name="city_country">City Country:</string>
+    <string name="enter_city_country">Enter city country</string>
+    <string name="is_visited">Is Visited:</string>
+    <string name="add_new_city">Add New City</string>
+    <string name="edit_city">Edit City</string>
+</resources>
